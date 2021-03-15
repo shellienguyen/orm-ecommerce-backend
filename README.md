@@ -31,4 +31,4 @@ Code, type in "npm install" to install the node modules.
 
 ## Instuctional Video:
 
-For a demonstration on how to run this application, please watch this video: 
+For a demonstration on how to run this application, please watch this video: https://drive.google.com/file/d/1YwWvIsllei-dEeSjO_QXW0Z2xsIAkqct/view
